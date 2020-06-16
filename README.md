@@ -6,7 +6,8 @@ Group Members
 3) Salman Ahmad-L1F18BSCS0407
 4) Abdul Rauf-L1F18BSCS0409
 
-## Project Name: Netflix Movies And TvShows
-
+## Project Name: Movie-Prediction
+## Dataset-Used: Netflix-movies-and-tvshows
 ## Description:
-                We trained the model that predicts the genre and user-requirement when a latest movie released. It also predicts that if this movie achieve a position in Top ranking or not.
+                We trained the model that predicts the genre and user-requirement when a latest movie released.
+                It also predicts that if this movie achieve a position in Top ranking or not.
